@@ -4,7 +4,7 @@ This project is a Node.js-based application that processes Vehicle Identificatio
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 - Node.js
 - Express.js
 - Axios
