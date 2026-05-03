@@ -42,7 +42,7 @@ This project is a Node.js-based application that processes Vehicle Identificatio
 
 ---
 
-## ⚡ Installation & Setup
+##  Installation & Setup
 
 ```bash
 npm install
